@@ -13,7 +13,7 @@
         android:text="Rishikesh"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="36sp"
+        android:textSize="40sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/black"
         android:background="#ccddff"
